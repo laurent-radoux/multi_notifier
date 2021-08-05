@@ -6,7 +6,6 @@ import pytest
 
 from click.testing import CliRunner
 
-from multi_notifier import multi_notifier
 from multi_notifier import cli
 
 
